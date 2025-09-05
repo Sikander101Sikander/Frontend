@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Guide</title>
+</head>
+<body>
+    <h1>Welcome, Let Understand the roadmap of frontend Journey</h1>
+    <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2020/09/18-09-2020-img-1-%E2%80%93-10-1024x577.png" height="200px" weight="300px" alt="Frontend img">
+<hr>
+<h2>Who is Frontend Developer?</h2>
+<p>A front-end developer is a software professional who builds the user-facing part of websites and web applications, often referred to as the client-side, using a combination of foundational web languages like HTML for structure, CSS for styling, and JavaScript for interactivity. They are responsible for creating a visually appealing and intuitive user interface (UI) that is functional across various devices and browsers, often collaborating with designers and back-end developers to transform a static design into a dynamic, interactive digital experience.</p>
+<hr>
+<h2>Skills Required</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>ReactJs</li>
+    <li>Git/GitHub</li>
+    <li>Tailwind CSS</li>
+    <li>NextJs</li>
+    <li>TypeScript</li>
+</ul>
+<hr>
+<h2>Step by Step procedure to become a frontend devloper</h2>
+<ol>
+        <li>
+            <strong>Master the Fundamentals</strong>: Start by learning the core trio of web development: HTML, CSS, and JavaScript. HTML provides the structure of a webpage, CSS handles its styling and layout, and JavaScript adds the interactive and dynamic functionality. You can't be a front-end developer without a solid understanding of these.
+        </li>
+        <li>
+            <strong>Learn Version Control (Git)</strong>: As you begin to write code, you'll need a way to track changes and collaborate with others. Git is the industry-standard version control system that lets you manage and save different versions of your code. Learning how to use it, along with a platform like GitHub, is essential for any professional developer.
+        </li>
+        <li>
+            <strong>Study Modern Frameworks and Libraries</strong>: Once you're comfortable with the fundamentals, dive into a popular JavaScript framework or library like React, Angular, or Vue.js. These tools streamline the development process and are highly sought after by employers. This is where you'll learn to build more complex, scalable applications.
+        </li>
+        <li>
+            <strong>Practice by Building Projects</strong>: The best way to learn is by doing. Don't just follow tutorials; actively build your own projects. Start with small, simple sites, and then move on to more complex applications that use APIs or include user interaction. This hands-on experience is crucial for solidifying your skills and understanding.
+        </li>
+        <li>
+            <strong>Create a Portfolio</strong>: Your portfolio is your resume. Create a personal website that showcases 3-5 of your best projects. This portfolio should be clean, responsive, and easy to navigate. It's a tangible way to demonstrate your skills and creativity to potential employers.
+        </li>
+        <li>
+            <strong>Network and Prepare for the Job Market</strong>: Start connecting with other developers online through communities like Stack Overflow or LinkedIn. Update your resume, practice common interview questions, and be ready to talk about the projects in your portfolio. Stay current on industry trends and continue to learn, as technology in this field evolves quickly.
+        </li>
+    </ol>
+<hr>
+<a href="https://www.geeksforgeeks.org/blogs/front-end-development/" target="_blank" alt="Tutorial Link was here">Go to course to Know more</a>
+</body>
+</html>
